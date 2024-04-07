@@ -1,0 +1,190 @@
+Clap your hands twice.
+Touch your nose.
+Jump in place once.
+Wink your right eye.
+Raise your left hand.
+Tap your head.
+Make a circle in the air.
+Snap your fingers.
+Whisper "Simon says".
+March on the spot.
+Shake your head.
+Wave your hand.
+Stomp your right foot.
+Sneeze loudly (pretend).
+Laugh out loud.
+Sit down and stand up.
+Spin around once.
+Raise both eyebrows.
+Salute with your right hand.
+Stick out your tongue.
+Pat your belly.
+Hop on one foot.
+Do a thumbs up.
+Make a peace sign.
+Blink three times.
+Pull your ears.
+Yawn widely.
+Cross your arms.
+Nod your head.
+Make a fist.
+Point upwards.
+Swing your arms.
+Touch your toes.
+Whistle softly.
+Fold your hands.
+Tilt your head left.
+Curl your lip.
+Flap your arms.
+Mime eating.
+Pretend to sleep.
+Do a finger gun.
+Rub your chin.
+Shrug your shoulders.
+Tap your foot.
+Mime driving.
+Act surprised.
+Bow slightly.
+Cover one eye.
+Hold your breath.
+Flex your arm.
+Count to three aloud.
+Pretend to cry.
+High five the air.
+Mime opening a door.
+Pretend to read.
+Shake your leg.
+Scratch your elbow.
+Play air guitar.
+Mime shooting an arrow.
+Pretend to swim.
+Blow a kiss.
+Do the robot dance.
+Look shocked.
+Pretend to fish.
+Act like a monkey.
+Roar like a lion.
+Fly like a bird.
+Mime typing.
+Pretend to surf.
+Wag your finger.
+Imitate a snake.
+Hug yourself.
+Leap like a frog.
+Act like a robot.
+Make a scary face.
+Pretend to cook.
+Do a pirouette.
+Act cold.
+Mime painting.
+Play the air drums.
+Act hot.
+Imitate a zombie.
+Walk like an Egyptian.
+Make a heart with hands.
+Pretend to skate.
+Blow a bubble (mime).
+Act like a spy.
+Mime climbing a ladder.
+Do a silly walk.
+Imitate a ghost.
+Pretend to juggle.
+Act like a DJ.
+Mime playing piano.
+Pretend to shoot hoops.
+Imitate a kangaroo.
+Act like a wizard.
+Pretend to row a boat.
+Make a puzzled face.
+Act like a superhero.
+Mime taking a selfie.
+Type "Hello, World!"
+Enter "1234567890" now.
+Press [Shift]+[A]@[Shift].
+Type "!@#$%^&*()_+" fast.
+Input "QWERTYuiop{}|".
+Type "ASDFghjkl;:'"<".
+Enter "ZXCVbnm,./>?~".
+Type "1a! 2s@ 3d# 4f$".
+Input "~~~~".
+Type "5g% 6h^ 7j& 8k*".
+Enter "9l( 0;:) -_+ =-{".
+Type "[{]}\|;:',<.>/".
+Input "<Shift>+<Enter>".
+Type "Mix#Of^Symbols*".
+Enter "Numeric1Pad2".
+Type "Alt+F4=Escape!".
+Input "Ctrl+Alt+Del".
+Type "Shift123Shift!".
+Enter "Type*Space_Bar".
+Type "Tab_Tab_Tab".
+Input "CapsLOCKonOFF".
+Type "=Equal+Plus-".
+Enter "Under-Score".
+Type "Tilde~Top".
+Input "^Caret&And%".
+Type "Use|Pipe\Slash".
+Enter "Slash/And\Back".
+Type "Colon:Sem;colon".
+Input "Quote'&Quot"".
+Type "Less<Than>More".
+Enter "Open[Brace]Close".
+Type "{Curly}Braces}".
+Input "(Round)Brackets".
+Type "Find?Question!".
+Enter "Exclaim!Loudly".
+Type "Dot.End,Comma".
+Input "At@Symbol#Hash".
+Type "Dollar$Sign%Per".
+Enter "Caret^Above&And".
+Type "Star*Multiply(".
+Input ")CloseParen-Sub".
+Type "_Under+Plus=Eq".
+Enter "[Square]Brac{Curly}".
+Type "|Pipe\Backslash/".
+Input "Semicolon;Colon:".
+Type "'Single"Double".
+Enter "<Less,More>Period".
+Type "/Slash?Question".
+Input "Type12345Quickly".
+Type "67890SpeedTest!".
+Enter "Lowercase&UPPER".
+Type "mixOfCaseStyles".
+Input "Number#1Player".
+Type "Quick!Response".
+Enter "Typing*Challenge".
+Type "Keyboard@Master".
+Input "Fast&Accurate!".
+Type "Skill+Speed=Pro".
+Enter "MasterTypist!".
+Type "Precision&Speed".
+Input "AllKeys1234Test".
+Type "56789Practice!".
+Enter "Perfect@Typing".
+Type "Efficiency*Key".
+Input "TypingInDark!".
+Type "NoLookTyping#1".
+Enter "KeyboardNinja!".
+Type "Silent&Swift@Typing".
+Input "SpeedTrial#Test".
+Type "Error-Free*Typing".
+Enter "SteadyHands@Work".
+Type "TypeTheSymbols#@$".
+Input "Navigate*WithTab".
+Type "Shift+Arrows=Move".
+Enter "Ctrl+C, Ctrl+V".
+Type "Undo=Ctrl+Z!".
+Input "Redo=Ctrl+Y@Type".
+Type "SelectAll*Ctrl+A".
+Enter "Refresh=F5Key".
+Type "Escape=EscKey!".
+Input "LockScreen=Win+L".
+Type "Win+D=Desktop!".
+Enter "Alt+TabSwitch!".
+Type "TaskMgr=Ctrl+Shift+Esc".
+Input "Win+R=RunDialog".
+Type "BrightnessUp=F2".
+Enter "VolumeDown=F3Key".
+Type "MuteSound=F1!".
+Input "PlayPause=Media".
+Type "NextTrack=Win+F
